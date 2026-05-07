@@ -39,15 +39,6 @@
 - ✅ **Sleep có thể ngắt** — bấm *Dừng* phản hồi tức thì.
 - ✅ **Tuỳ chỉnh delay** giữa mỗi lượt gửi lời mời.
 
----
-
-## Ảnh chụp màn hình
-
-> Chụp màn hình UI khi bạn chạy thử, đặt vào thư mục `screenshots/` rồi cập nhật đường dẫn:
-
-```
-screenshots/ui.png
-```
 
 ---
 
