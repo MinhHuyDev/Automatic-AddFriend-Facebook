@@ -1,0 +1,47 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs & local data
+*.log
+*.bak
+*.tmp
+
+# Credentials / secrets
+.env
+.env.*
+cookies.txt
+session.json
+config.local.*
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Screenshots gốc (giữ thư mục, bỏ file gốc lớn nếu cần)
+# screenshots/*.psd
