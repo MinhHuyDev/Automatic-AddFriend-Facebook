@@ -195,8 +195,8 @@ Dự án phát hành theo giấy phép [MIT](LICENSE).
 ## Tác giả
 
 **Nguyễn Minh Huy (RainTee)**
-- GitHub: [@RainTee](https://github.com/)
-- Module `login.py` — Facebook Login V2 (28/12/2022, last update 15/4/2026)
+- GitHub: [@MinhHuyDev](https://github.com/MinhHuyDev)
+- Module `login.py` — Facebook Login V2 ([fbchat-v2](https://github.com/MinhHuyDev/fbchat-v2)) (28/12/2022, last update 15/4/2026)
 
 ---
 
